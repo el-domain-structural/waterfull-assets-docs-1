@@ -1,7 +1,7 @@
 {
-  "name": "codia-vue",
-  "version": "1.0.0",
-  "private": true,
+  "name": "waterfull-assets-docs-1 ",
+  "version": "1.1.4",
+  "private": false,
   "scripts": {
     "dev": "vite",
     "build": "vite build",
