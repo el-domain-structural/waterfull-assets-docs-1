@@ -5,6 +5,10 @@
     "Source Han Sans CN", sans-serif;
 }
 
+.body {
+  background-color: black;
+}
+
 .main-container {
   overflow: hidden;
 }
